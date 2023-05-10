@@ -1,0 +1,11 @@
+@mixin centrar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#objeto{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
